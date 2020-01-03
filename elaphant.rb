@@ -1,9 +1,9 @@
 class Elaphant < Formula
   desc "elaphant node"
   homepage "https://github.com/elaphantapp/homebrew-elaphant"
-  url "https://github.com/elaphantapp/ElaphantNode/releases/download/v0.2.1/elaphant-0.2.1-linux-amd64.tar.gz"
-  version "v0.2.1"
-  sha256 "093d25b4cbbfa13e9b3d4afb6a2ca7ff67cac63dadaa0cf95d9ef893f27c7554"
+  url "https://github.com/elaphantapp/ElaphantNode/releases/download/v0.3.0/elaphant-0.3.0-linux-amd64.tar.gz"
+  version "v0.3.0"
+  sha256 "9a1c9c6dc70a68f3312e7660d2b49289982df77dbc47d729cfe013eb9ac49623"
 
   def install
     bin.install "elaphant"
